@@ -1,0 +1,16 @@
+{
+  "documentationId": "741d15d4-acd3-48cb-a939-b8d67d27dad1",
+  "attemptId": "f68a2408-6bdd-48ba-b73e-f6f83bdd196d",
+  "repository": "team-sonar-v2",
+  "owner": "devolotus",
+  "documentationRepository": "team-sonar-v2-docs",
+  "sourceUrl": "https://github.com/devolotus/team-sonar-v2",
+  "sourceSha": "f6717db10666ddfbf5771ecbb9db5491af08d519",
+  "model": "qwen3.5:4b",
+  "promptVersion": "1",
+  "templateVersion": "1",
+  "generatedAt": "2026-11-22T19:13:07.755403+00:00",
+  "analyzedFiles": 17,
+  "analyzedBytes": 20651,
+  "excludedFiles": 4
+}
